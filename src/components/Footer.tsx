@@ -17,11 +17,11 @@ const Footer = () => {
             <div className="flex flex-col gap-2 mb-4 text-sm text-muted-foreground">
               <div className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-accent" />
-                <span>+1 (818) 792-1089</span>
+                <span>+1(747)229-8269</span>
               </div>
               <div className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-accent" />
-                <span>+1 (818) 913-2465</span>
+                <span>+1(858)241-6553</span>
               </div>
               <div className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 text-accent flex-shrink-0 mt-0.5" />

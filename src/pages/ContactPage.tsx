@@ -41,8 +41,8 @@ const ContactPage = () => {
                     <div>
                       <h3 className="font-mono font-bold mb-2">Phone</h3>
                       <p className="text-muted-foreground">
-                        +1 (818) 792-1089<br />
-                        +1 (818) 913-2465
+                        +1(747)229-8269<br />
+                        +1(858)241-6553
                       </p>
                       <p className="text-sm text-muted-foreground mt-1">
                         Contact: Daniel Martin
